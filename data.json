@@ -1,0 +1,86 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "admin123",
+      "role": "admin"
+    },
+    {
+      "id": 2,
+      "username": "SahitB",
+      "password": "sahitbytyqi123",
+      "role": "user"
+    },
+    {
+      "id": 3,
+      "username": "SahitAB",
+      "password": "sahitbytyqi123",
+      "role": "user"
+    },
+    {
+      "id": 4,
+      "username": "Azem",
+      "password": "infinitkonto",
+      "role": "user"
+    }
+  ],
+  "invoices": [
+    {
+      "id": 5,
+      "nr_fatures": "FSH_ 1232",
+      "klienti": "AAAA",
+      "data": "2026-09-26",
+      "lloji": "Shitje",
+      "shuma": 500,
+      "user_id": 1
+    },
+    {
+      "id": 6,
+      "nr_fatures": "FB_123123",
+      "klienti": "SahitBytyqi",
+      "data": "2026-09-26",
+      "lloji": "Blerje",
+      "shuma": 100,
+      "user_id": 1
+    },
+    {
+      "id": 7,
+      "nr_fatures": "FSHP_0000",
+      "klienti": "sahits",
+      "data": "2026-02-06",
+      "lloji": "Shpenzim",
+      "shuma": 200,
+      "user_id": 1
+    },
+    {
+      "id": 8,
+      "nr_fatures": "FSH-001",
+      "klienti": "Nar",
+      "data": "2026-09-26",
+      "lloji": "Shitje",
+      "shuma": 100,
+      "user_id": 1
+    },
+    {
+      "id": 10,
+      "nr_fatures": "FSHP-001",
+      "klienti": "Sahit Azem Bytyqi",
+      "data": "2026-10-02",
+      "lloji": "Shpenzim",
+      "shuma": 100,
+      "user_id": 2
+    },
+    {
+      "id": 11,
+      "nr_fatures": "FSH-002",
+      "klienti": "Omer Besim Bytyqi",
+      "data": "2026-10-02",
+      "lloji": "Shitje",
+      "shuma": 400,
+      "user_id": 2
+    }
+  ],
+  "nextUserId": 5,
+  "nextInvoiceId": 12
+}
